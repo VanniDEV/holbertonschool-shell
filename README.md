@@ -1,3 +1,1 @@
-# holbertonschool-shell
 
-Shell Project
